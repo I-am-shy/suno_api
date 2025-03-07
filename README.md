@@ -4,6 +4,7 @@
   </h1>
   <p>用 API 调用 suno.ai 的音乐生成 AI，并且可以轻松集成到 GPTs 等 agent 中。</p>
   <p>👉 我们更新很快，欢迎 star。</p>
+  <p> 访问地址：https://sunoapi-git-main-sleepysheeps-projects.vercel.app/ </p>
 </div>
 <p align="center">
   | <a target="_blank" href="https://suno.gcui.ai">Demo</a> 
